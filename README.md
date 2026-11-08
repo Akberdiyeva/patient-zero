@@ -24,7 +24,7 @@ Longest chain: 31
 
 The screenshot of the generated outbreak visualization is saved in `output/outbreak.png`.
 
-![outbreak](output/outbreak.png)
+![outbreak](outbreak.png)
 
 ## Questions
 
